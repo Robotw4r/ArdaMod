@@ -1,0 +1,11 @@
+{
+  "gui.arda.menu": "Arda Menu",
+  "gui.arda.menu.map": "Map",
+  "gui.arda.menu.factions": "Factions Info",
+  "gui.arda.menu.playerinfo" : "Player Info",
+  "gui.arda.menu.fellowships" : "Fellowships",
+  "gui.arda.menu.wiki" : "Wiki",
+  "gui.arda.menu.settings" : "Settings",
+  "key.ardautils.menu": "Arda Menu",
+  "key.categories.mod.ardautils": "Ascension d'Arda"
+}
